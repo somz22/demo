@@ -1,3 +1,4 @@
 This is abc file, solely created for git tutorial.
 (:
-New line addition.
+(: New  line addition :).
+Line in "brch" branch.
