@@ -1,5 +1,5 @@
 This is abc file, solely created for git tutorial.
 (:
 (: New  line addition :).
-f sbfobfslbf
+Hi there! whatsapp only.
 Line in nbranch hello branch .
