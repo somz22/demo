@@ -2,6 +2,8 @@ This is abc file, solely created for git tutorial.
 (:
 (: New  line addition :).
 Hi there! calls only.
+We found each other
+I helped you out of a broken place
 Hi there! whatsapp only.
 
 Line in nbranch hello branch .
